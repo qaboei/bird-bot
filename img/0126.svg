@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="420" height="297" fill="#fbfbf8"/>
+<rect x="6" y="6" width="408" height="285" fill="none" stroke="#1b2330" stroke-width="0.5"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#1b2330" stroke-width="0.25"/>
+<polygon points="51.20,90.80 156.80,90.80 156.80,35.00 51.20,35.00" fill="#c7ccd6" fill-opacity="0.35" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="51.20,45.80 156.80,45.80 156.80,35.00 51.20,35.00" fill="#98a1b0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<path d="M104.00,69.80 C113.20,69.80 124.40,69.80 131.60,70.40 C138.80,71.00 143.20,71.40 147.20,73.40 C151.20,75.40 154.00,77.30 155.60,82.40 C157.20,87.50 156.60,86.40 156.80,104.00 C157.00,121.60 158.40,171.20 156.80,188.00 C155.20,204.80 151.80,199.80 147.20,204.80 C142.60,209.80 134.80,214.60 129.20,218.00 C123.60,221.40 117.80,223.70 113.60,225.20 C109.40,226.70 107.20,227.00 104.00,227.00 C100.80,227.00 98.60,226.70 94.40,225.20 C90.20,223.70 84.40,221.40 78.80,218.00 C73.20,214.60 65.40,209.80 60.80,204.80 C56.20,199.80 52.80,204.80 51.20,188.00 C49.60,171.20 51.00,121.60 51.20,104.00 C51.40,86.40 50.80,87.50 52.40,82.40 C54.00,77.30 56.80,75.40 60.80,73.40 C64.80,71.40 69.20,71.00 76.40,70.40 C83.60,69.80 94.80,69.80 104.00,69.80 Z" fill="none" fill-opacity="1.0" stroke="#aab3c2" stroke-width="0.3" stroke-dasharray="1.5,1" stroke-linejoin="round"/>
+<path d="M53.60,75.20 C51.60,55.90 45.70,77.30 41.60,79.40 C37.50,81.50 32.30,84.40 29.00,87.80 C25.70,91.20 23.20,93.10 21.80,99.80 C20.40,106.50 20.70,117.30 20.60,128.00 C20.50,138.70 20.80,153.80 21.20,164.00 C21.60,174.20 21.30,183.50 23.00,189.20 C24.70,194.90 27.50,196.00 31.40,198.20 C35.30,200.40 42.70,202.90 46.40,202.40 C50.10,201.90 52.40,216.40 53.60,195.20 C54.80,174.00 55.60,94.50 53.60,75.20 Z" fill="none" fill-opacity="1.0" stroke="#aab3c2" stroke-width="0.3" stroke-dasharray="1.5,1" stroke-linejoin="round"/>
+<path d="M154.40,75.20 C156.40,55.90 162.30,77.30 166.40,79.40 C170.50,81.50 175.70,84.40 179.00,87.80 C182.30,91.20 184.80,93.10 186.20,99.80 C187.60,106.50 187.30,117.30 187.40,128.00 C187.50,138.70 187.20,153.80 186.80,164.00 C186.40,174.20 186.70,183.50 185.00,189.20 C183.30,194.90 180.50,196.00 176.60,198.20 C172.70,200.40 165.30,202.90 161.60,202.40 C157.90,201.90 155.60,216.40 154.40,195.20 C153.20,174.00 152.40,94.50 154.40,75.20 Z" fill="none" fill-opacity="1.0" stroke="#aab3c2" stroke-width="0.3" stroke-dasharray="1.5,1" stroke-linejoin="round"/>
+<polygon points="53.60,194.00 154.40,194.00 154.40,90.80 53.60,90.80" fill="#5a6270" fill-opacity="0.18" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="43.70,135.80 27.80,135.80 27.80,96.20 43.70,96.20" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="43.70,193.40 27.80,193.40 27.80,153.80 43.70,153.80" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="51.50,131.30 46.70,131.30 46.70,100.70 51.50,100.70" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="51.50,160.10 46.70,160.10 46.70,129.50 51.50,129.50" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="51.50,188.90 46.70,188.90 46.70,158.30 51.50,158.30" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="55.40,191.00 53.60,191.00 53.60,98.60 55.40,98.60" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="46.10,191.00 44.90,191.00 44.90,98.60 46.10,98.60" fill="#5a6270" fill-opacity="0.6" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="102.20,131.30 57.80,131.30 57.80,109.10 102.20,109.10" fill="#c9a227" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="164.30,135.80 180.20,135.80 180.20,96.20 164.30,96.20" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="164.30,193.40 180.20,193.40 180.20,153.80 164.30,153.80" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="156.50,131.30 161.30,131.30 161.30,100.70 156.50,100.70" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="156.50,160.10 161.30,160.10 161.30,129.50 156.50,129.50" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="156.50,188.90 161.30,188.90 161.30,158.30 156.50,158.30" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="152.60,191.00 154.40,191.00 154.40,98.60 152.60,98.60" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="161.90,191.00 163.10,191.00 163.10,98.60 161.90,98.60" fill="#5a6270" fill-opacity="0.6" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="105.80,131.30 150.20,131.30 150.20,109.10 105.80,109.10" fill="#c9a227" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="80.90,188.00 127.10,188.00 127.10,151.40 80.90,151.40" fill="#2f855a" fill-opacity="0.9" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="105.20,186.20 131.00,186.20 131.00,160.40 105.20,160.40" fill="#9b2c2c" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="74.60,186.20 87.20,186.20 87.20,160.40 74.60,160.40" fill="#2b6cb0" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="90.80,186.20 99.20,186.20 99.20,170.60 90.80,170.60" fill="#d69e2e" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="88.70,130.40 119.30,130.40 119.30,113.60 88.70,113.60" fill="#1f4e79" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="75.20,195.20 86.60,195.20 86.60,187.40 75.20,187.40" fill="#444" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="74.60,92.00 101.60,92.00 101.60,90.80 74.60,90.80" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="106.40,92.00 133.40,92.00 133.40,90.80 106.40,90.80" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="75.50,90.80 85.10,90.80 85.10,83.60 75.50,83.60" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="91.10,90.80 100.70,90.80 100.70,83.60 91.10,83.60" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="107.30,90.80 116.90,90.80 116.90,83.60 107.30,83.60" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="122.90,90.80 132.50,90.80 132.50,83.60 122.90,83.60" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="53.00,53.60 59.00,53.60 59.00,50.00 53.00,50.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="149.00,53.60 155.00,53.60 155.00,50.00 149.00,50.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="30.20,93.80 36.20,93.80 36.20,90.20 30.20,90.20" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="171.80,93.80 177.80,93.80 177.80,90.20 171.80,90.20" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<text x="18.00" y="20.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">PLAN, SHELL OFF</text>
+<text x="18.00" y="23.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">1 : 1.7</text>
+<circle cx="104.01" cy="134.06" r="2.6" fill="#fff" stroke="#e4572e" stroke-width="0.5"/><path d="M101.41066810344829,134.0572198275862 A2.6,2.6 0 0 1 104.01066810344828,131.45721982758621 L104.01066810344828,134.0572198275862 Z M106.61066810344828,134.0572198275862 A2.6,2.6 0 0 1 104.01066810344828,136.6572198275862 L104.01066810344828,134.0572198275862 Z" fill="#e4572e"/>
+<text x="108.01" y="135.06" font-size="2.6" fill="#e4572e" text-anchor="start" font-weight="800">CG y -10</text>
+<circle cx="104.00" cy="169.70" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="104.00" y="170.65" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">1</text>
+<circle cx="118.10" cy="173.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="118.10" y="174.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">2</text>
+<circle cx="80.90" cy="173.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="80.90" y="174.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">3</text>
+<circle cx="95.00" cy="178.40" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="95.00" y="179.35" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">4</text>
+<circle cx="104.00" cy="122.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="104.00" y="122.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">5</text>
+<circle cx="80.90" cy="191.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="80.90" y="192.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">6</text>
+<circle cx="80.00" cy="120.20" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="80.00" y="121.15" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">7</text>
+<circle cx="119.90" cy="87.20" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="119.90" y="88.15" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">8</text>
+<circle cx="162.50" cy="144.80" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="162.50" y="145.75" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">9</text>
+<circle cx="206.00" cy="29.10" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="30.05" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">1</text>
+<text x="210.00" y="30.00" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">battery 77 × 61 × 21, z 12–33 (floor)</text>
+<circle cx="206.00" cy="34.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="35.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">2</text>
+<text x="210.00" y="35.20" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">L298N 43 × 43 × 27, deck z 41, under the vents</text>
+<circle cx="206.00" cy="39.50" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="40.45" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">3</text>
+<text x="210.00" y="40.40" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">LM2596 21 × 43 × 14, deck</text>
+<circle cx="206.00" cy="44.70" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="45.65" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">4</text>
+<text x="210.00" y="45.60" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">fuse 5 A, deck</text>
+<circle cx="206.00" cy="49.90" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="50.85" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">5</text>
+<text x="210.00" y="50.80" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">ESP32 51 × 28, bridge z 62</text>
+<circle cx="206.00" cy="55.10" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="56.05" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">6</text>
+<text x="210.00" y="56.00" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">switch, keel rear wall</text>
+<circle cx="206.00" cy="60.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="61.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">7</text>
+<text x="210.00" y="61.20" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">motors: drop in from above, then the bridge</text>
+<circle cx="206.00" cy="65.50" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="66.45" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">8</text>
+<text x="210.00" y="66.40" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">sonar boards, cans through the grille</text>
+<circle cx="206.00" cy="70.70" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="206.00" y="71.65" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">9</text>
+<text x="210.00" y="71.60" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">gear pods: inside the wings</text>
+<text x="316.00" y="24.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">MASS ESTIMATE (g)</text>
+<text x="316.00" y="30.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">motors (2)</text>
+<text x="392.00" y="30.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">340</text>
+<text x="316.00" y="34.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">tyres (4)</text>
+<text x="392.00" y="34.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">120</text>
+<text x="316.00" y="38.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">battery + holder</text>
+<text x="392.00" y="38.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">156</text>
+<text x="316.00" y="42.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">L298N</text>
+<text x="392.00" y="42.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">30</text>
+<text x="316.00" y="46.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">LM2596</text>
+<text x="392.00" y="46.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">12</text>
+<text x="316.00" y="50.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">ESP32 + IR</text>
+<text x="392.00" y="50.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">11</text>
+<text x="316.00" y="54.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">HC-SR04 (2)</text>
+<text x="392.00" y="54.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">18</text>
+<text x="316.00" y="58.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">TCRT5000 (4)</text>
+<text x="392.00" y="58.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">12</text>
+<text x="316.00" y="62.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">switch, fuse</text>
+<text x="392.00" y="62.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">7</text>
+<text x="316.00" y="66.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">steel blade</text>
+<text x="392.00" y="66.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">20</text>
+<text x="316.00" y="70.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">wires, screws</text>
+<text x="392.00" y="70.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">70</text>
+<text x="316.00" y="74.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">keel tub + decks</text>
+<text x="392.00" y="74.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">260</text>
+<text x="316.00" y="78.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">gear pods + 6 gears</text>
+<text x="392.00" y="78.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">170</text>
+<text x="316.00" y="82.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">scoop</text>
+<text x="392.00" y="82.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">150</text>
+<text x="316.00" y="86.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">carapace (3 plates)</text>
+<text x="392.00" y="86.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">250</text>
+<text x="316.00" y="90.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">wings (4 plates)</text>
+<text x="392.00" y="90.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">170</text>
+<text x="316.00" y="94.00" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">grille, vent, tail, fins</text>
+<text x="392.00" y="94.00" font-size="2.2" fill="#1b2330" text-anchor="end" font-weight="400">60</text>
+<line x1="316.00" y1="96.80" x2="393.00" y2="96.80" stroke="#1b2330" stroke-width="0.2"/>
+<text x="316.00" y="100.20" font-size="2.6" fill="#1b2330" text-anchor="start" font-weight="700">total</text>
+<text x="392.00" y="100.20" font-size="2.6" fill="#1b2330" text-anchor="end" font-weight="700">≈ 1.86 kg</text>
+<text x="204.00" y="90.00" font-size="3.2" fill="#e4572e" text-anchor="start" font-weight="700">WHAT IT MEANS IN A FIGHT</text>
+<text x="204.00" y="96.00" font-size="2.35" fill="#1b2330" text-anchor="start" font-weight="400">· 4WD: all 1.86 kg sits on driven tyres → grip push ≈ 16.4 N at μ 0.9</text>
+<text x="204.00" y="100.80" font-size="2.35" fill="#1b2330" text-anchor="start" font-weight="400">· v4.3 had 11.3 N (83 % of 1.53 kg on 2 tyres): ≈ 45 % more push</text>
+<text x="204.00" y="105.60" font-size="2.35" fill="#5b6576" text-anchor="start" font-weight="400">· each motor must give ≥ 0.27 N·m to spin all four tyres (JGB37-520 stall is above that)</text>
+<text x="204.00" y="110.40" font-size="2.35" fill="#5b6576" text-anchor="start" font-weight="400">· CG 37 mm up, +18 mm from the wheelbase centre: front tyres a bit heavier</text>
+<text x="204.00" y="115.20" font-size="2.35" fill="#5b6576" text-anchor="start" font-weight="400">· no weight limit: a 300–500 g steel ballast plate fits under the battery (+2.6–4.4 N)</text>
+<text x="204.00" y="132.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">SECTION A–A (centreline)</text>
+<text x="204.00" y="135.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">1 : 1.7, front to the left: the z stack</text>
+<path d="M249.80,225.40 C250.60,223.10 253.00,215.90 254.60,211.60 C256.20,207.30 257.20,202.80 259.40,199.60 C261.60,196.40 264.20,194.00 267.80,192.40 C271.40,190.80 274.80,190.80 281.00,190.00 C287.20,189.20 299.00,188.20 305.00,187.60 C311.00,187.00 311.00,186.40 317.00,186.40 C323.00,186.40 333.00,186.60 341.00,187.60 C349.00,188.60 358.00,190.40 365.00,192.40 C372.00,194.40 378.00,197.40 383.00,199.60 C388.00,201.80 391.50,203.80 395.00,205.60 C398.50,207.40 402.50,209.60 404.00,210.40 L396.20,222.40 L380.00,230.80 L252.20,230.80 Z" fill="none" fill-opacity="1.0" stroke="#aab3c2" stroke-width="0.45" stroke-linejoin="round"/>
+<polygon points="267.80,220.00 213.80,236.80 212.00,238.00 267.80,238.00" fill="#c7ccd6" fill-opacity="0.4" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="258.80,200.20 254.60,211.60 250.40,224.80 252.80,225.40 257.00,212.20 261.20,200.80" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<circle cx="293.00" cy="218.20" r="19.80" fill="#2a2d33" fill-opacity="0.25" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="350.60" cy="218.20" r="19.80" fill="#2a2d33" fill-opacity="0.25" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="293.00" cy="218.20" r="15.30" fill="none" fill-opacity="1.0" stroke="#7d8798" stroke-width="0.35" stroke-dasharray="1,0.6"/>
+<circle cx="321.80" cy="218.20" r="15.30" fill="none" fill-opacity="1.0" stroke="#7d8798" stroke-width="0.35" stroke-dasharray="1,0.6"/>
+<circle cx="350.60" cy="218.20" r="15.30" fill="none" fill-opacity="1.0" stroke="#7d8798" stroke-width="0.35" stroke-dasharray="1,0.6"/>
+<circle cx="297.20" cy="218.20" r="11.10" fill="#c9a227" fill-opacity="0.95" stroke="#1b2330" stroke-width="0.2"/>
+<polygon points="371.00,232.60 267.80,232.60 267.80,230.80 371.00,230.80" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="368.00,215.20 320.00,215.20 320.00,213.40 368.00,213.40" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="309.80,202.60 287.00,202.60 287.00,200.80 309.80,200.80" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="365.00,230.80 328.40,230.80 328.40,218.20 365.00,218.20" fill="#2f855a" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="363.20,213.40 337.40,213.40 337.40,197.20 363.20,197.20" fill="#9b2c2c" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="307.40,200.80 290.60,200.80 290.60,193.60 307.40,193.60" fill="#1f4e79" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="372.20,226.00 364.40,226.00 364.40,218.20 372.20,218.20" fill="#444" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="319.40,196.00 315.80,196.00 315.80,191.80 319.40,191.80" fill="#8fd3ff" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="269.00,217.00 267.80,217.00 267.80,205.00 269.00,205.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="267.80,215.80 260.60,215.80 260.60,206.20 267.80,206.20" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="231.80,236.20 225.80,236.20 225.80,232.00 231.80,232.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<text x="346.70" y="225.40" font-size="2.1" fill="#fff" text-anchor="middle" font-weight="700">battery</text>
+<text x="350.30" y="206.20" font-size="2.1" fill="#fff" text-anchor="middle" font-weight="700">L298N</text>
+<text x="299.00" y="198.10" font-size="2.1" fill="#fff" text-anchor="middle" font-weight="700">ESP32</text>
+<line x1="212.00" y1="230.80" x2="216.00" y2="230.80" stroke="#5b6576" stroke-width="0.15" stroke-dasharray="0.8,0.6"/>
+<text x="211.00" y="231.60" font-size="2.1" fill="#5b6576" text-anchor="end" font-weight="400">floor 12</text>
+<line x1="212.00" y1="213.40" x2="216.00" y2="213.40" stroke="#5b6576" stroke-width="0.15" stroke-dasharray="0.8,0.6"/>
+<text x="211.00" y="214.20" font-size="2.1" fill="#5b6576" text-anchor="end" font-weight="400">deck 41</text>
+<line x1="212.00" y1="200.80" x2="216.00" y2="200.80" stroke="#5b6576" stroke-width="0.15" stroke-dasharray="0.8,0.6"/>
+<text x="211.00" y="201.60" font-size="2.1" fill="#5b6576" text-anchor="end" font-weight="400">bridge 62</text>
+<line x1="212.00" y1="190.00" x2="216.00" y2="190.00" stroke="#5b6576" stroke-width="0.15" stroke-dasharray="0.8,0.6"/>
+<text x="211.00" y="190.80" font-size="2.1" fill="#5b6576" text-anchor="end" font-weight="400">roof 80</text>
+<circle cx="311.06" cy="215.94" r="2.2" fill="#fff" stroke="#e4572e" stroke-width="0.5"/><circle cx="311.06" cy="215.94" r="0.8" fill="#e4572e"/>
+<text x="314.06" y="213.44" font-size="2.4" fill="#e4572e" text-anchor="start" font-weight="800">CG z 37</text>
+<rect x="300" y="262" width="110" height="25" fill="#fff" stroke="#1b2330" stroke-width="0.3"/>
+<line x1="300" y1="270" x2="410" y2="270" stroke="#1b2330" stroke-width="0.2"/>
+<line x1="385" y1="262" x2="385" y2="287" stroke="#1b2330" stroke-width="0.2"/>
+<text x="303" y="267.6" font-size="3.6" font-weight="800" fill="#1b2330">MANTA-08</text>
+<text x="331" y="267.6" font-size="2.3" fill="#5b6576">sumo v5 · chassis schematics · rev A · 2026-11-14</text>
+<text x="303" y="276" font-size="3.4" font-weight="700" fill="#1b2330">PACKAGING AND BALANCE</text>
+<text x="303" y="281" font-size="2.2" fill="#5b6576">where every bought part sits, the decks, and the centre of mass</text>
+<text x="303" y="285.2" font-size="2" fill="#5b6576">mm · x right, y forward, z up · mat at z 0 · for review, not for print</text>
+<text x="397.5" y="275" font-size="2.2" fill="#5b6576" text-anchor="middle">SHEET</text>
+<text x="397.5" y="283" font-size="6" font-weight="800" fill="#1b2330" text-anchor="middle">3/6</text>
+</svg>

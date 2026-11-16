@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="420" height="297" fill="#fbfbf8"/>
+<rect x="6" y="6" width="408" height="285" fill="none" stroke="#1b2330" stroke-width="0.5"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#1b2330" stroke-width="0.25"/>
+<rect x="20" y="40" width="50" height="26" rx="1.5" fill="#2f855a" fill-opacity="0.12" stroke="#2f855a" stroke-width="0.5"/>
+<text x="45.00" y="45.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">3S 18650</text>
+<text x="45.00" y="50.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">12.6 – 9.6 V</text>
+<text x="45.00" y="53.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">3 × 2600 mAh 3C</text>
+<text x="45.00" y="57.20" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">keel floor</text>
+<rect x="88" y="43" width="30" height="20" rx="1.5" fill="#d69e2e" fill-opacity="0.12" stroke="#d69e2e" stroke-width="0.5"/>
+<text x="103.00" y="48.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">FUSE 5 A</text>
+<text x="103.00" y="53.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">inline 5 × 20</text>
+<rect x="136" y="43" width="34" height="20" rx="1.5" fill="#444" fill-opacity="0.12" stroke="#444" stroke-width="0.5"/>
+<text x="153.00" y="48.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">SWITCH</text>
+<text x="153.00" y="53.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">KCD1-101</text>
+<text x="153.00" y="56.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">keel rear wall</text>
+<rect x="200" y="30" width="62" height="40" rx="1.5" fill="#9b2c2c" fill-opacity="0.12" stroke="#9b2c2c" stroke-width="0.5"/>
+<text x="231.00" y="35.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">L298N</text>
+<text x="231.00" y="40.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">IN1 25 · IN2 26 → motor L</text>
+<text x="231.00" y="43.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">IN3 27 · IN4 33 → motor R</text>
+<text x="231.00" y="47.20" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">ENA / ENB jumpers on</text>
+<text x="231.00" y="50.80" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">5V-EN jumper off</text>
+<rect x="300" y="30" width="46" height="20" rx="1.5" fill="#c9a227" fill-opacity="0.12" stroke="#c9a227" stroke-width="0.5"/>
+<text x="323.00" y="35.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">MOTOR L</text>
+<text x="323.00" y="40.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">JGB37-520 320 rpm</text>
+<text x="323.00" y="43.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">front + rear left (gears)</text>
+<rect x="300" y="56" width="46" height="20" rx="1.5" fill="#c9a227" fill-opacity="0.12" stroke="#c9a227" stroke-width="0.5"/>
+<text x="323.00" y="61.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">MOTOR R</text>
+<text x="323.00" y="66.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">JGB37-520 320 rpm</text>
+<text x="323.00" y="69.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">front + rear right (gears)</text>
+<rect x="130" y="96" width="44" height="22" rx="1.5" fill="#2b6cb0" fill-opacity="0.12" stroke="#2b6cb0" stroke-width="0.5"/>
+<text x="152.00" y="101.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">LM2596</text>
+<text x="152.00" y="106.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">set to 5.0 V</text>
+<text x="152.00" y="109.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">in: after the switch</text>
+<rect x="200" y="96" width="70" height="74" rx="1.5" fill="#1f4e79" fill-opacity="0.12" stroke="#1f4e79" stroke-width="0.5"/>
+<text x="235.00" y="101.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">ESP32 DevKit 30-pin</text>
+<text x="235.00" y="106.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">VIN ← 5 V</text>
+<text x="235.00" y="109.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">TRIG L 5 · ECHO L 34 (2.2k / 3.3k)</text>
+<text x="235.00" y="113.20" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">TRIG R 18 · ECHO R 35 (2.2k / 3.3k)</text>
+<text x="235.00" y="116.80" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">EDGE scoop 39 · 36</text>
+<text x="235.00" y="120.40" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">EDGE wings 4 · 13</text>
+<text x="235.00" y="124.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">IR 23 · battery sense 32</text>
+<text x="235.00" y="127.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">LED 2 · start BOOT 0</text>
+<text x="235.00" y="131.20" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">L298N 25 · 26 · 27 · 33</text>
+<rect x="300" y="96" width="50" height="22" rx="1.5" fill="#38a1db" fill-opacity="0.12" stroke="#38a1db" stroke-width="0.5"/>
+<text x="325.00" y="101.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">HC-SR04 × 2</text>
+<text x="325.00" y="106.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">5 V · TRIG / ECHO</text>
+<text x="325.00" y="109.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">echo divided to 3.0 V</text>
+<rect x="300" y="124" width="50" height="22" rx="1.5" fill="#2b6cb0" fill-opacity="0.12" stroke="#2b6cb0" stroke-width="0.5"/>
+<text x="325.00" y="129.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">TCRT5000 × 4</text>
+<text x="325.00" y="134.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">3V3 · D0 out</text>
+<text x="325.00" y="137.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">2 scoop + 2 wing noses</text>
+<rect x="300" y="152" width="50" height="18" rx="1.5" fill="#5aa9e6" fill-opacity="0.12" stroke="#5aa9e6" stroke-width="0.5"/>
+<text x="325.00" y="157.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">VS1838B</text>
+<text x="325.00" y="162.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">IR start (RC-5), vent window</text>
+<rect x="96" y="136" width="74" height="22" rx="1.5" fill="#777" fill-opacity="0.12" stroke="#777" stroke-width="0.5"/>
+<text x="133.00" y="141.50" font-size="3" fill="#1b2330" text-anchor="middle" font-weight="700">BATTERY SENSE</text>
+<text x="133.00" y="146.00" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">9.9k (3 × 3.3k) → GPIO 32 → 2.2k → GND</text>
+<text x="133.00" y="149.60" font-size="2.2" fill="#5b6576" text-anchor="middle" font-weight="400">12.6 V reads 2.29 V</text>
+<polyline points="70,53 88,53" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="70" cy="53" r="0.8" fill="#d62828"/>
+<circle cx="88" cy="53" r="0.8" fill="#d62828"/>
+<text x="71.00" y="51.50" font-size="2.2" fill="#d62828" text-anchor="start" font-weight="600">+</text>
+<polyline points="118,53 136,53" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="118" cy="53" r="0.8" fill="#d62828"/>
+<circle cx="136" cy="53" r="0.8" fill="#d62828"/>
+<polyline points="170,53 200,53" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="170" cy="53" r="0.8" fill="#d62828"/>
+<circle cx="200" cy="53" r="0.8" fill="#d62828"/>
+<text x="172.00" y="51.50" font-size="2.2" fill="#d62828" text-anchor="start" font-weight="600">+12 V</text>
+<polyline points="185,53 185,104 174,104" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="185" cy="53" r="0.8" fill="#d62828"/>
+<circle cx="174" cy="104" r="0.8" fill="#d62828"/>
+<polyline points="185,104 185,147 170,147" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="185" cy="104" r="0.8" fill="#d62828"/>
+<circle cx="170" cy="147" r="0.8" fill="#d62828"/>
+<polyline points="262,40 300,40" fill="none" stroke="#c99700" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="262" cy="40" r="0.8" fill="#c99700"/>
+<circle cx="300" cy="40" r="0.8" fill="#c99700"/>
+<text x="264.00" y="38.80" font-size="2.2" fill="#c99700" text-anchor="start" font-weight="600">OUT1/2</text>
+<polyline points="262,64 300,66" fill="none" stroke="#c99700" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="262" cy="64" r="0.8" fill="#c99700"/>
+<circle cx="300" cy="66" r="0.8" fill="#c99700"/>
+<text x="264.00" y="62.80" font-size="2.2" fill="#c99700" text-anchor="start" font-weight="600">OUT3/4</text>
+<polyline points="152,118 152,126 192,126 192,104 200,104" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="152" cy="118" r="0.8" fill="#d62828"/>
+<circle cx="200" cy="104" r="0.8" fill="#d62828"/>
+<text x="193.50" y="130.00" font-size="2.2" fill="#d62828" text-anchor="start" font-weight="600">5 V</text>
+<polyline points="192,104 192,84 215,84 215,70" fill="none" stroke="#d62828" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="192" cy="104" r="0.8" fill="#d62828"/>
+<circle cx="215" cy="70" r="0.8" fill="#d62828"/>
+<text x="199.00" y="82.00" font-size="2.2" fill="#d62828" text-anchor="start" font-weight="600">5 V → L298N logic</text>
+<polyline points="245,96 245,70" fill="none" stroke="#1d63c4" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="245" cy="96" r="0.8" fill="#1d63c4"/>
+<circle cx="245" cy="70" r="0.8" fill="#1d63c4"/>
+<text x="246.50" y="90.00" font-size="2.2" fill="#1d63c4" text-anchor="start" font-weight="600">IN1–4</text>
+<polyline points="270,107 300,107" fill="none" stroke="#1d63c4" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="270" cy="107" r="0.8" fill="#1d63c4"/>
+<circle cx="300" cy="107" r="0.8" fill="#1d63c4"/>
+<text x="272.00" y="105.80" font-size="2.2" fill="#1d63c4" text-anchor="start" font-weight="600">trig / echo</text>
+<polyline points="270,135 300,135" fill="none" stroke="#2f855a" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="270" cy="135" r="0.8" fill="#2f855a"/>
+<circle cx="300" cy="135" r="0.8" fill="#2f855a"/>
+<text x="272.00" y="133.80" font-size="2.2" fill="#2f855a" text-anchor="start" font-weight="600">edge × 4</text>
+<polyline points="270,161 300,161" fill="none" stroke="#1d63c4" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="270" cy="161" r="0.8" fill="#1d63c4"/>
+<circle cx="300" cy="161" r="0.8" fill="#1d63c4"/>
+<text x="272.00" y="159.80" font-size="2.2" fill="#1d63c4" text-anchor="start" font-weight="600">IR</text>
+<polyline points="170,153 200,153" fill="none" stroke="#1d63c4" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="170" cy="153" r="0.8" fill="#1d63c4"/>
+<circle cx="200" cy="153" r="0.8" fill="#1d63c4"/>
+<text x="172.00" y="151.80" font-size="2.2" fill="#1d63c4" text-anchor="start" font-weight="600">GPIO 32</text>
+<polyline points="45,66 45,186 325,186 325,170" fill="none" stroke="#222" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="45" cy="66" r="0.8" fill="#222"/>
+<circle cx="325" cy="170" r="0.8" fill="#222"/>
+<text x="47.00" y="184.50" font-size="2.2" fill="#222" text-anchor="start" font-weight="600">GND star at the battery − (every board)</text>
+<text x="20.00" y="205.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">NOTES</text>
+<text x="20.00" y="211.00" font-size="2.4" fill="#5b6576" text-anchor="start" font-weight="400">· Same parts and pins as v4, plus the two wing-nose edge sensors on GPIO 4 and 13 (the v4.2 'layout B').</text>
+<text x="20.00" y="215.80" font-size="2.4" fill="#5b6576" text-anchor="start" font-weight="400">· Battery, fuse and switch sit together at the back of the keel: short, thick power leads; the L298N is 30 mm away.</text>
+<text x="20.00" y="220.60" font-size="2.4" fill="#5b6576" text-anchor="start" font-weight="400">· Signal wires run in a channel down the keel's centre to the bridge; motor leads drop straight into the pod walls.</text>
+<text x="20.00" y="225.40" font-size="2.4" fill="#5b6576" text-anchor="start" font-weight="400">· Cells charge outside the robot in the TP4056 holder: lift the vent hatch, unclip the holder.</text>
+<rect x="300" y="262" width="110" height="25" fill="#fff" stroke="#1b2330" stroke-width="0.3"/>
+<line x1="300" y1="270" x2="410" y2="270" stroke="#1b2330" stroke-width="0.2"/>
+<line x1="385" y1="262" x2="385" y2="287" stroke="#1b2330" stroke-width="0.2"/>
+<text x="303" y="267.6" font-size="3.6" font-weight="800" fill="#1b2330">MANTA-08</text>
+<text x="331" y="267.6" font-size="2.3" fill="#5b6576">sumo v5 · chassis schematics · rev A · 2026-11-14</text>
+<text x="303" y="276" font-size="3.4" font-weight="700" fill="#1b2330">ELECTRICAL</text>
+<text x="303" y="281" font-size="2.2" fill="#5b6576">power path and signal wiring (same parts and pins as firmware sumo_v4.ino, + 2 wing edge sensors)</text>
+<text x="303" y="285.2" font-size="2" fill="#5b6576">mm · x right, y forward, z up · mat at z 0 · for review, not for print</text>
+<text x="397.5" y="275" font-size="2.2" fill="#5b6576" text-anchor="middle">SHEET</text>
+<text x="397.5" y="283" font-size="6" font-weight="800" fill="#1b2330" text-anchor="middle">5/6</text>
+</svg>

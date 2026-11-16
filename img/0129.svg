@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="420" height="297" fill="#fbfbf8"/>
+<rect x="6" y="6" width="408" height="285" fill="none" stroke="#1b2330" stroke-width="0.5"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#1b2330" stroke-width="0.25"/>
+<text x="18.00" y="20.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">EXPLODED STACK</text>
+<text x="18.00" y="23.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">front view, layers lifted apart, 1 : 2</text>
+<polygon points="54.00,139.84 56.20,139.11 58.40,138.56 60.60,138.12 62.80,137.75 65.00,137.44 67.20,137.18 69.40,136.96 71.60,136.77 73.80,136.61 76.00,136.48 78.20,136.36 80.40,136.27 82.60,136.19 84.80,136.13 87.00,136.08 89.20,136.05 91.40,136.02 93.60,136.01 95.80,136.00 98.00,136.00 100.20,136.00 102.40,136.01 104.60,136.02 106.80,136.05 109.00,136.08 111.20,136.13 113.40,136.19 115.60,136.27 117.80,136.36 120.00,136.48 122.20,136.61 124.40,136.77 126.60,136.96 128.80,137.18 131.00,137.44 133.20,137.75 135.40,138.12 137.60,138.56 139.80,139.11 142.00,139.84 142.00,141.34 139.80,140.61 137.60,140.06 135.40,139.62 133.20,139.25 131.00,138.94 128.80,138.68 126.60,138.46 124.40,138.27 122.20,138.11 120.00,137.98 117.80,137.86 115.60,137.77 113.40,137.69 111.20,137.63 109.00,137.58 106.80,137.55 104.60,137.52 102.40,137.51 100.20,137.50 98.00,137.50 95.80,137.50 93.60,137.51 91.40,137.52 89.20,137.55 87.00,137.58 84.80,137.63 82.60,137.69 80.40,137.77 78.20,137.86 76.00,137.98 73.80,138.11 71.60,138.27 69.40,138.46 67.20,138.68 65.00,138.94 62.80,139.25 60.60,139.62 58.40,140.06 56.20,140.61 54.00,141.34" fill="#eef0f3" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<path d="M61.00,148.00 C67.83,146.33 85.67,147.00 98.00,147.00 C110.33,147.00 128.17,146.33 135.00,148.00 C141.83,149.67 139.67,153.83 139.00,157.00 C138.33,160.17 137.83,165.58 131.00,167.00 C124.17,168.42 109.00,165.50 98.00,165.50 C87.00,165.50 71.83,168.42 65.00,167.00 C58.17,165.58 57.67,160.17 57.00,157.00 C56.33,153.83 54.17,149.67 61.00,148.00 Z" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="87.00,136.58 85.50,129.00 87.50,129.00 89.00,136.55" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="109.00,136.58 110.50,129.00 108.50,129.00 107.00,136.55" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="54.00,155.84 52.98,155.84 51.96,155.85 50.94,155.87 49.92,155.91 48.90,155.96 47.88,156.04 46.85,156.14 45.83,156.27 44.81,156.43 43.79,156.62 42.77,156.85 41.75,157.12 40.73,157.44 39.71,157.81 38.69,158.24 37.67,158.75 36.65,159.33 35.62,160.02 34.60,160.84 33.58,161.82 32.56,163.04 31.54,164.63 30.52,166.95 29.50,175.00 29.50,192.50 31.00,192.50 31.00,175.00 31.96,167.58 32.92,165.44 33.88,163.98 34.83,162.86 35.79,161.95 36.75,161.20 37.71,160.56 38.67,160.02 39.62,159.55 40.58,159.16 41.54,158.81 42.50,158.52 43.46,158.27 44.42,158.06 45.38,157.88 46.33,157.73 47.29,157.62 48.25,157.52 49.21,157.45 50.17,157.40 51.12,157.37 52.08,157.35 53.04,157.34 54.00,157.34" fill="#ff7a1a" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="142.00,155.84 143.02,155.84 144.04,155.85 145.06,155.87 146.08,155.91 147.10,155.96 148.12,156.04 149.15,156.14 150.17,156.27 151.19,156.43 152.21,156.62 153.23,156.85 154.25,157.12 155.27,157.44 156.29,157.81 157.31,158.24 158.33,158.75 159.35,159.33 160.38,160.02 161.40,160.84 162.42,161.82 163.44,163.04 164.46,164.63 165.48,166.95 166.50,175.00 166.50,192.50 165.00,192.50 165.00,175.00 164.04,167.58 163.08,165.44 162.12,163.98 161.17,162.86 160.21,161.95 159.25,161.20 158.29,160.56 157.33,160.02 156.38,159.55 155.42,159.16 154.46,158.81 153.50,158.52 152.54,158.27 151.58,158.06 150.62,157.88 149.67,157.73 148.71,157.62 147.75,157.52 146.79,157.45 145.83,157.40 144.88,157.37 143.92,157.35 142.96,157.34 142.00,157.34" fill="#ff7a1a" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="68.00,189.00 128.00,189.00 128.00,187.50 68.00,187.50" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="99.00,187.50 120.50,187.50 120.50,174.00 99.00,174.00" fill="#9b2c2c" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="73.50,187.50 84.00,187.50 84.00,180.50 73.50,180.50" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="78.00,178.50 118.00,178.50 118.00,177.00 78.00,177.00" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="85.25,177.00 110.75,177.00 110.75,171.00 85.25,171.00" fill="#1f4e79" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="56.00,220.50 48.75,220.50 48.75,192.00 56.00,192.00" fill="#5a6270" fill-opacity="0.35" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="54.25,219.25 50.25,219.25 50.25,193.75 54.25,193.75" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="49.75,220.50 48.75,220.50 48.75,192.00 49.75,192.00" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="47.75,223.00 34.50,223.00 34.50,190.00 47.75,190.00" fill="#2a2d33" fill-opacity="0.75" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="140.00,220.50 147.25,220.50 147.25,192.00 140.00,192.00" fill="#5a6270" fill-opacity="0.35" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="141.75,219.25 145.75,219.25 145.75,193.75 141.75,193.75" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="146.25,220.50 147.25,220.50 147.25,192.00 146.25,192.00" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="148.25,223.00 161.50,223.00 161.50,190.00 148.25,190.00" fill="#2a2d33" fill-opacity="0.75" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="56.00,233.50 140.00,233.50 140.00,207.00 138.50,207.00 138.50,232.00 57.50,232.00 57.50,207.00 56.00,207.00" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="96.50,230.75 59.50,230.75 59.50,212.25 96.50,212.25" fill="#c9a227" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="99.50,230.75 136.50,230.75 136.50,212.25 99.50,212.25" fill="#c9a227" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="78.75,232.00 117.25,232.00 117.25,221.50 78.75,221.50" fill="#2f855a" fill-opacity="0.8" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="54.00,251.00 142.00,251.00 141.00,247.50 55.00,247.50" fill="#c7ccd6" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<text x="173.00" y="164.00" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="400">carapace: head, mid, tail plates</text>
+<text x="173.00" y="180.00" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="400">wings ×2 (front + rear plate each)</text>
+<text x="173.00" y="193.00" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="400">deck + bridge (electronics)</text>
+<text x="173.00" y="208.00" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="400">gear pods ×2 (cover + 3 gears)</text>
+<text x="173.00" y="223.00" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="400">keel tub</text>
+<text x="173.00" y="249.50" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="400">scoop (slides on)</text>
+<text x="222.00" y="23.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">PRINTED PARTS (each ≤ 180 × 180 × 180)</text>
+<text x="222.00" y="28.50" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="700">#</text>
+<text x="236.00" y="28.50" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="700">part</text>
+<text x="326.00" y="28.50" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="700">size (mm)</text>
+<text x="358.00" y="28.50" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="700">colour</text>
+<text x="222.00" y="33.50" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P1</text>
+<text x="236.00" y="33.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">keel tub: floor, motor cradles, battery bay, pod walls</text>
+<text x="326.00" y="33.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">168 × 172 × 62</text>
+<text x="358.00" y="33.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">gunmetal</text>
+<text x="222.00" y="37.90" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P2/3</text>
+<text x="236.00" y="37.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">pod cover L / R</text>
+<text x="326.00" y="37.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">155 × 57 × 2</text>
+<text x="358.00" y="37.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">gunmetal</text>
+<text x="222.00" y="42.30" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P4–9</text>
+<text x="236.00" y="42.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">gears ×6 (drive + coupler, idler, driven + hub)</text>
+<text x="326.00" y="42.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">Ø 51 × 8–26</text>
+<text x="358.00" y="42.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">any, 100 %</text>
+<text x="222.00" y="46.70" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P10</text>
+<text x="236.00" y="46.70" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">electronics deck</text>
+<text x="326.00" y="46.70" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">120 × 80 × 3</text>
+<text x="358.00" y="46.70" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">gunmetal</text>
+<text x="222.00" y="51.10" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P11</text>
+<text x="236.00" y="51.10" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">ESP32 bridge</text>
+<text x="326.00" y="51.10" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">160 × 40 × 22</text>
+<text x="358.00" y="51.10" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">gunmetal</text>
+<text x="222.00" y="55.50" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P12</text>
+<text x="236.00" y="55.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">scoop with T-slot</text>
+<text x="326.00" y="55.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">176 × 93 × 30</text>
+<text x="358.00" y="55.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">silk silver</text>
+<text x="222.00" y="59.90" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P13</text>
+<text x="236.00" y="59.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">carapace head: grille frame, sonar eyes</text>
+<text x="326.00" y="59.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">176 × 62 × 66</text>
+<text x="358.00" y="59.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">pearl</text>
+<text x="222.00" y="64.30" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P14</text>
+<text x="236.00" y="64.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">carapace mid: crest, vent ring</text>
+<text x="326.00" y="64.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">176 × 110 × 30</text>
+<text x="358.00" y="64.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">pearl</text>
+<text x="222.00" y="68.70" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P15</text>
+<text x="236.00" y="68.70" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">carapace tail: fin roots</text>
+<text x="326.00" y="68.70" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">176 × 70 × 40</text>
+<text x="358.00" y="68.70" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">pearl</text>
+<text x="222.00" y="73.10" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P16–19</text>
+<text x="236.00" y="73.10" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">wing plates: L/R front, L/R rear</text>
+<text x="326.00" y="73.10" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">56 × 96 × 75</text>
+<text x="358.00" y="73.10" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">orange</text>
+<text x="222.00" y="77.50" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P20</text>
+<text x="236.00" y="77.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">grille insert: slats, 4 eye bezels</text>
+<text x="326.00" y="77.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">150 × 42 × 6</text>
+<text x="358.00" y="77.50" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">black</text>
+<text x="222.00" y="81.90" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P21</text>
+<text x="236.00" y="81.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">vent hatch with IR window</text>
+<text x="326.00" y="81.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">Ø 46 × 6</text>
+<text x="358.00" y="81.90" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">black</text>
+<text x="222.00" y="86.30" font-size="2.2" fill="#1b2330" text-anchor="start" font-weight="400">P22/23</text>
+<text x="236.00" y="86.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">tail fins</text>
+<text x="326.00" y="86.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">42 × 16 × 4</text>
+<text x="358.00" y="86.30" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">black</text>
+<text x="222.00" y="93.70" font-size="2.4" fill="#1b2330" text-anchor="start" font-weight="600">≈ 10–12 plates on the A1 mini · ≈ 1.0 kg PLA (estimate, firmed up in 3D)</text>
+<text x="222.00" y="104.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">LOAD PATH</text>
+<text x="222.00" y="110.00" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="400">· Push: blade → scoop → T-rail → keel floor → motor cradles → tyres. The shell never carries a push.</text>
+<text x="222.00" y="114.60" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="400">· Side hits land on the wings, which bolt to the pod covers (4 × M3 each) and to the carapace (2 × M3).</text>
+<text x="222.00" y="119.20" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="400">· The carapace plates lap front-over-back like armour (6 mm) and bolt to 5 keel posts.</text>
+<text x="222.00" y="123.80" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="400">· The vent hatch is a quarter-turn bayonet: battery access without tools.</text>
+<text x="222.00" y="128.40" font-size="2.3" fill="#5b6576" text-anchor="start" font-weight="400">· Every split line sits on an armour seam, so the joins are part of the look.</text>
+<text x="222.00" y="142.00" font-size="3.6" fill="#e4572e" text-anchor="start" font-weight="800">FOR YOUR OK</text>
+<text x="222.00" y="149.00" font-size="2.6" fill="#1b2330" text-anchor="start" font-weight="400">1  4WD gear pods (recommended), or v4's 2 driven + 2 free tyres</text>
+<text x="222.00" y="154.20" font-size="2.6" fill="#1b2330" text-anchor="start" font-weight="400">2  silhouette: 278 wing to wing, 320 long with the tail, crest 86, fins 100</text>
+<text x="222.00" y="159.40" font-size="2.6" fill="#1b2330" text-anchor="start" font-weight="400">3  livery: pearl carapace, orange wings, gunmetal keel, black grille, silver scoop, red accents</text>
+<text x="222.00" y="164.60" font-size="2.6" fill="#1b2330" text-anchor="start" font-weight="400">4  scoop 93 long, tip 102 ahead of the front tyre, steel ruler blade</text>
+<text x="222.00" y="169.80" font-size="2.6" fill="#1b2330" text-anchor="start" font-weight="400">5  then: anatomy figure → 3D parts → A1 mini plates</text>
+<rect x="300" y="262" width="110" height="25" fill="#fff" stroke="#1b2330" stroke-width="0.3"/>
+<line x1="300" y1="270" x2="410" y2="270" stroke="#1b2330" stroke-width="0.2"/>
+<line x1="385" y1="262" x2="385" y2="287" stroke="#1b2330" stroke-width="0.2"/>
+<text x="303" y="267.6" font-size="3.6" font-weight="800" fill="#1b2330">MANTA-08</text>
+<text x="331" y="267.6" font-size="2.3" fill="#5b6576">sumo v5 · chassis schematics · rev A · 2026-11-14</text>
+<text x="303" y="276" font-size="3.4" font-weight="700" fill="#1b2330">STRUCTURE AND PRINT SPLIT</text>
+<text x="303" y="281" font-size="2.2" fill="#5b6576">what carries load, how it comes apart, and the printed parts against the 180 × 180 bed</text>
+<text x="303" y="285.2" font-size="2" fill="#5b6576">mm · x right, y forward, z up · mat at z 0 · for review, not for print</text>
+<text x="397.5" y="275" font-size="2.2" fill="#5b6576" text-anchor="middle">SHEET</text>
+<text x="397.5" y="283" font-size="6" font-weight="800" fill="#1b2330" text-anchor="middle">6/6</text>
+</svg>

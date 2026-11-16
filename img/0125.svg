@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="420" height="297" fill="#fbfbf8"/>
+<rect x="6" y="6" width="408" height="285" fill="none" stroke="#1b2330" stroke-width="0.5"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#1b2330" stroke-width="0.25"/>
+<polygon points="54.00,97.00 142.00,97.00 142.00,50.50 54.00,50.50" fill="#c7ccd6" fill-opacity="0.35" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="54.00,59.50 142.00,59.50 142.00,50.50 54.00,50.50" fill="#98a1b0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<path d="M98.00,79.50 C105.67,79.50 115.00,79.50 121.00,80.00 C127.00,80.50 130.67,80.83 134.00,82.50 C137.33,84.17 139.67,85.75 141.00,90.00 C142.33,94.25 141.83,93.33 142.00,108.00 C142.17,122.67 143.33,164.00 142.00,178.00 C140.67,192.00 137.83,187.83 134.00,192.00 C130.17,196.17 123.67,200.17 119.00,203.00 C114.33,205.83 109.50,207.75 106.00,209.00 C102.50,210.25 100.67,210.50 98.00,210.50 C95.33,210.50 93.50,210.25 90.00,209.00 C86.50,207.75 81.67,205.83 77.00,203.00 C72.33,200.17 65.83,196.17 62.00,192.00 C58.17,187.83 55.33,192.00 54.00,178.00 C52.67,164.00 53.83,122.67 54.00,108.00 C54.17,93.33 53.67,94.25 55.00,90.00 C56.33,85.75 58.67,84.17 62.00,82.50 C65.33,80.83 69.00,80.50 75.00,80.00 C81.00,79.50 90.33,79.50 98.00,79.50 Z" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.45" stroke-linejoin="round"/>
+<path d="M56.00,84.00 C54.33,67.92 49.42,85.75 46.00,87.50 C42.58,89.25 38.25,91.67 35.50,94.50 C32.75,97.33 30.67,98.92 29.50,104.50 C28.33,110.08 28.58,119.08 28.50,128.00 C28.42,136.92 28.67,149.50 29.00,158.00 C29.33,166.50 29.08,174.25 30.50,179.00 C31.92,183.75 34.25,184.67 37.50,186.50 C40.75,188.33 46.92,190.42 50.00,190.00 C53.08,189.58 55.00,201.67 56.00,184.00 C57.00,166.33 57.67,100.08 56.00,84.00 Z" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.45" stroke-linejoin="round"/>
+<path d="M140.00,84.00 C141.67,67.92 146.58,85.75 150.00,87.50 C153.42,89.25 157.75,91.67 160.50,94.50 C163.25,97.33 165.33,98.92 166.50,104.50 C167.67,110.08 167.42,119.08 167.50,128.00 C167.58,136.92 167.33,149.50 167.00,158.00 C166.67,166.50 166.92,174.25 165.50,179.00 C164.08,183.75 161.75,184.67 158.50,186.50 C155.25,188.33 149.08,190.42 146.00,190.00 C142.92,189.58 141.00,201.67 140.00,184.00 C139.00,166.33 138.33,100.08 140.00,84.00 Z" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.45" stroke-linejoin="round"/>
+<polygon points="56.00,183.00 140.00,183.00 140.00,97.00 56.00,97.00" fill="#5a6270" fill-opacity="0.18" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="47.75,134.50 34.50,134.50 34.50,101.50 47.75,101.50" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="47.75,182.50 34.50,182.50 34.50,149.50 47.75,149.50" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="54.25,130.75 50.25,130.75 50.25,105.25 54.25,105.25" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="54.25,154.75 50.25,154.75 50.25,129.25 54.25,129.25" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="54.25,178.75 50.25,178.75 50.25,153.25 54.25,153.25" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="57.50,180.50 56.00,180.50 56.00,103.50 57.50,103.50" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="49.75,180.50 48.75,180.50 48.75,103.50 49.75,103.50" fill="#5a6270" fill-opacity="0.6" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="96.50,130.75 59.50,130.75 59.50,112.25 96.50,112.25" fill="#c9a227" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="148.25,134.50 161.50,134.50 161.50,101.50 148.25,101.50" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="148.25,182.50 161.50,182.50 161.50,149.50 148.25,149.50" fill="#2a2d33" fill-opacity="0.85" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="141.75,130.75 145.75,130.75 145.75,105.25 141.75,105.25" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="141.75,154.75 145.75,154.75 145.75,129.25 141.75,129.25" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="141.75,178.75 145.75,178.75 145.75,153.25 141.75,153.25" fill="#7d8798" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="138.50,180.50 140.00,180.50 140.00,103.50 138.50,103.50" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="146.25,180.50 147.25,180.50 147.25,103.50 146.25,103.50" fill="#5a6270" fill-opacity="0.6" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="99.50,130.75 136.50,130.75 136.50,112.25 99.50,112.25" fill="#c9a227" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="78.75,178.00 117.25,178.00 117.25,147.50 78.75,147.50" fill="#2f855a" fill-opacity="0.9" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="99.00,176.50 120.50,176.50 120.50,155.00 99.00,155.00" fill="#9b2c2c" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="73.50,176.50 84.00,176.50 84.00,155.00 73.50,155.00" fill="#2b6cb0" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="87.00,176.50 94.00,176.50 94.00,163.50 87.00,163.50" fill="#d69e2e" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="85.25,130.00 110.75,130.00 110.75,116.00 85.25,116.00" fill="#1f4e79" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="74.00,184.00 83.50,184.00 83.50,177.50 74.00,177.50" fill="#444" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="73.50,98.00 96.00,98.00 96.00,97.00 73.50,97.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="100.00,98.00 122.50,98.00 122.50,97.00 100.00,97.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="74.25,97.00 82.25,97.00 82.25,91.00 74.25,91.00" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="87.25,97.00 95.25,97.00 95.25,91.00 87.25,91.00" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="100.75,97.00 108.75,97.00 108.75,91.00 100.75,91.00" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="113.75,97.00 121.75,97.00 121.75,91.00 113.75,91.00" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="55.50,66.00 60.50,66.00 60.50,63.00 55.50,63.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="135.50,66.00 140.50,66.00 140.50,63.00 135.50,63.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="36.50,99.50 41.50,99.50 41.50,96.50 36.50,96.50" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="154.50,99.50 159.50,99.50 159.50,96.50 154.50,96.50" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<text x="18.00" y="20.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">PLAN</text>
+<text x="18.00" y="23.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">1 : 2, shell outline over the parts</text>
+<line x1="28.50" y1="210.50" x2="28.50" y2="220.50" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="167.50" y1="210.50" x2="167.50" y2="220.50" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="28.50" y1="219.50" x2="167.50" y2="219.50" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="28.50,219.50 30.30,218.90 30.30,220.10" fill="#5b6576"/>
+<polygon points="167.50,219.50 165.70,218.90 165.70,220.10" fill="#5b6576"/>
+<text x="98.00" y="218.70" font-size="2.3" fill="#5b6576" text-anchor="middle" font-weight="400">278 wing to wing</text>
+<line x1="54.00" y1="50.50" x2="54.00" y2="44.50" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="142.00" y1="50.50" x2="142.00" y2="44.50" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="54.00" y1="45.50" x2="142.00" y2="45.50" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="54.00,45.50 55.80,44.90 55.80,46.10" fill="#5b6576"/>
+<polygon points="142.00,45.50 140.20,44.90 140.20,46.10" fill="#5b6576"/>
+<text x="98.00" y="44.70" font-size="2.3" fill="#5b6576" text-anchor="middle" font-weight="400">176 scoop / blade</text>
+<line x1="28.50" y1="210.50" x2="19.50" y2="210.50" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="28.50" y1="50.50" x2="19.50" y2="50.50" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="20.50" y1="210.50" x2="20.50" y2="50.50" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="20.50,210.50 19.90,208.70 21.10,208.70" fill="#5b6576"/>
+<polygon points="20.50,50.50 19.90,52.30 21.10,52.30" fill="#5b6576"/>
+<text x="19.70" y="130.50" font-size="2.3" fill="#5b6576" text-anchor="middle" transform="rotate(-90 19.70 130.50)">320 overall</text>
+<line x1="167.50" y1="166.00" x2="174.50" y2="166.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="167.50" y1="118.00" x2="174.50" y2="118.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="173.50" y1="166.00" x2="173.50" y2="118.00" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="173.50,166.00 172.90,164.20 174.10,164.20" fill="#5b6576"/>
+<polygon points="173.50,118.00 172.90,119.80 174.10,119.80" fill="#5b6576"/>
+<text x="172.70" y="142.00" font-size="2.3" fill="#5b6576" text-anchor="middle" transform="rotate(-90 172.70 142.00)">96</text>
+<circle cx="98.00" cy="55.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="98.00" y="55.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">1</text>
+<circle cx="138.00" cy="64.50" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="138.00" y="65.45" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">2</text>
+<circle cx="157.00" cy="98.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="157.00" y="98.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">3</text>
+<circle cx="111.25" cy="94.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="111.25" y="94.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">4</text>
+<circle cx="125.50" cy="121.50" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="125.50" y="122.45" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">5</text>
+<circle cx="146.75" cy="142.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="146.75" y="142.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">6</text>
+<circle cx="98.00" cy="162.75" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="98.00" y="163.70" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">7</text>
+<circle cx="109.75" cy="165.75" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="109.75" y="166.70" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">8</text>
+<circle cx="78.75" cy="165.75" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="78.75" y="166.70" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">9</text>
+<circle cx="98.00" cy="123.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="98.00" y="123.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">10</text>
+<circle cx="78.75" cy="180.75" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="78.75" y="181.70" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">11</text>
+<circle cx="154.88" cy="166.00" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="154.88" y="166.95" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">12</text>
+<circle cx="180.00" cy="29.10" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="30.05" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">1</text>
+<text x="184.00" y="30.00" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">steel blade 176 × 18 × 0.8 (15 cm ruler)</text>
+<circle cx="180.00" cy="34.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="35.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">2</text>
+<text x="184.00" y="35.20" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">edge sensor ×2 in the scoop, 28 behind the tip</text>
+<circle cx="180.00" cy="39.50" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="40.45" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">3</text>
+<text x="184.00" y="40.40" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">edge sensor ×2 in the wing noses</text>
+<circle cx="180.00" cy="44.70" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="45.65" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">4</text>
+<text x="184.00" y="45.60" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">2 × HC-SR04: four eyes in the mouth</text>
+<circle cx="180.00" cy="49.90" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="50.85" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">5</text>
+<text x="184.00" y="50.80" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">2 × JGB37-520, back to back on the front axle</text>
+<circle cx="180.00" cy="55.10" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="56.05" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">6</text>
+<text x="184.00" y="56.00" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">gear pod: 3 gears join front and rear tyre</text>
+<circle cx="180.00" cy="60.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="61.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">7</text>
+<text x="184.00" y="61.20" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">3S 18650 low in the keel, between the axles</text>
+<circle cx="180.00" cy="65.50" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="66.45" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">8</text>
+<text x="184.00" y="66.40" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">L298N on the deck, under the roof vents</text>
+<circle cx="180.00" cy="70.70" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="71.65" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">9</text>
+<text x="184.00" y="71.60" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">LM2596 (5 V) on the deck</text>
+<circle cx="180.00" cy="75.90" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="76.85" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">10</text>
+<text x="184.00" y="76.80" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">ESP32 on the bridge over the motors</text>
+<circle cx="180.00" cy="81.10" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="82.05" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">11</text>
+<text x="184.00" y="82.00" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">power switch in the rear wall</text>
+<circle cx="180.00" cy="86.30" r="2.1" fill="#fff" stroke="#e4572e" stroke-width="0.4"/><text x="180.00" y="87.25" font-size="2.5" font-weight="800" fill="#e4572e" text-anchor="middle">12</text>
+<text x="184.00" y="87.20" font-size="2.3" fill="#1b2330" text-anchor="start" font-weight="400">TT Ø 66 tyres ×4, all driven</text>
+<circle cx="312.00" cy="93.50" r="16.50" fill="#2a2d33" fill-opacity="0.25" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="360.00" cy="93.50" r="16.50" fill="#2a2d33" fill-opacity="0.25" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="312.00" cy="93.50" r="12.75" fill="none" fill-opacity="1.0" stroke="#7d8798" stroke-width="0.35" stroke-dasharray="1,0.6"/>
+<circle cx="336.00" cy="93.50" r="12.75" fill="none" fill-opacity="1.0" stroke="#7d8798" stroke-width="0.35" stroke-dasharray="1,0.6"/>
+<circle cx="360.00" cy="93.50" r="12.75" fill="none" fill-opacity="1.0" stroke="#7d8798" stroke-width="0.35" stroke-dasharray="1,0.6"/>
+<circle cx="315.50" cy="93.50" r="9.25" fill="#c9a227" fill-opacity="0.95" stroke="#1b2330" stroke-width="0.2"/>
+<polygon points="377.00,105.50 291.00,105.50 291.00,104.00 377.00,104.00" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="374.50,91.00 334.50,91.00 334.50,89.50 374.50,89.50" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="326.00,80.50 307.00,80.50 307.00,79.00 326.00,79.00" fill="#5a6270" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="372.00,104.00 341.50,104.00 341.50,93.50 372.00,93.50" fill="#2f855a" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="370.50,89.50 349.00,89.50 349.00,76.00 370.50,76.00" fill="#9b2c2c" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="324.00,79.00 310.00,79.00 310.00,73.00 324.00,73.00" fill="#1f4e79" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="378.00,100.00 371.50,100.00 371.50,93.50 378.00,93.50" fill="#444" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="334.00,75.00 331.00,75.00 331.00,71.50 334.00,71.50" fill="#8fd3ff" fill-opacity="0.92" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="292.00,92.50 291.00,92.50 291.00,82.50 292.00,82.50" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="291.00,91.50 285.00,91.50 285.00,83.50 291.00,83.50" fill="#38a1db" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<polygon points="261.00,108.50 256.00,108.50 256.00,105.00 261.00,105.00" fill="#2b6cb0" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.15" stroke-linejoin="round"/>
+<path d="M276.00,99.50 C276.67,97.58 278.67,91.58 280.00,88.00 C281.33,84.42 282.17,80.67 284.00,78.00 C285.83,75.33 288.00,73.33 291.00,72.00 C294.00,70.67 296.83,70.67 302.00,70.00 C307.17,69.33 317.00,68.50 322.00,68.00 C327.00,67.50 327.00,67.00 332.00,67.00 C337.00,67.00 345.33,67.17 352.00,68.00 C358.67,68.83 366.17,70.33 372.00,72.00 C377.83,73.67 382.83,76.17 387.00,78.00 C391.17,79.83 394.08,81.50 397.00,83.00 C399.92,84.50 403.25,86.33 404.50,87.00 L398.00,97.00 L384.50,104.00 L278.00,104.00 Z" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.45" stroke-linejoin="round"/>
+<polygon points="291.00,95.00 246.00,109.00 244.50,110.00 291.00,110.00" fill="#c7ccd6" fill-opacity="0.4" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="283.50,78.50 280.00,88.00 276.50,99.00 278.50,99.50 282.00,88.50 285.50,79.00" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<path d="M289.00,90.00 C289.33,88.67 289.67,84.33 291.00,82.00 C292.33,79.67 294.17,77.50 297.00,76.00 C299.83,74.50 298.83,73.58 308.00,73.00 C317.17,72.42 341.50,72.25 352.00,72.50 C362.50,72.75 366.67,73.42 371.00,74.50 C375.33,75.58 376.33,76.92 378.00,79.00 C379.67,81.08 380.50,85.67 381.00,87.00 L381.00,107.50 L289.00,107.50 Z" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.4" stroke-linejoin="round"/>
+<circle cx="312.00" cy="93.50" r="13.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.35"/>
+<circle cx="312.00" cy="93.50" r="11.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="360.00" cy="93.50" r="13.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.35"/>
+<circle cx="360.00" cy="93.50" r="11.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2"/>
+<text x="258.00" y="20.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">SIDE (right)</text>
+<text x="258.00" y="23.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">1 : 2, front to the left</text>
+<line x1="242.50" y1="110.00" x2="237.50" y2="110.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="242.50" y1="67.00" x2="237.50" y2="67.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="238.50" y1="110.00" x2="238.50" y2="67.00" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="238.50,110.00 237.90,108.20 239.10,108.20" fill="#5b6576"/>
+<polygon points="238.50,67.00 237.90,68.80 239.10,68.80" fill="#5b6576"/>
+<text x="237.70" y="88.50" font-size="2.3" fill="#5b6576" text-anchor="middle" transform="rotate(-90 237.70 88.50)">86 crest</text>
+<line x1="406.50" y1="110.00" x2="411.50" y2="110.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="406.50" y1="60.00" x2="411.50" y2="60.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="410.50" y1="110.00" x2="410.50" y2="60.00" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="410.50,110.00 409.90,108.20 411.10,108.20" fill="#5b6576"/>
+<polygon points="410.50,60.00 409.90,61.80 411.10,61.80" fill="#5b6576"/>
+<text x="409.70" y="85.00" font-size="2.3" fill="#5b6576" text-anchor="middle" transform="rotate(-90 409.70 85.00)">100 fins</text>
+<line x1="244.50" y1="112.00" x2="244.50" y2="119.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="291.00" y1="112.00" x2="291.00" y2="119.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="244.50" y1="118.00" x2="291.00" y2="118.00" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="244.50,118.00 246.30,117.40 246.30,118.60" fill="#5b6576"/>
+<polygon points="291.00,118.00 289.20,117.40 289.20,118.60" fill="#5b6576"/>
+<text x="267.75" y="117.20" font-size="2.3" fill="#5b6576" text-anchor="middle" font-weight="400">scoop 93</text>
+<line x1="312.00" y1="112.00" x2="312.00" y2="119.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="360.00" y1="112.00" x2="360.00" y2="119.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="312.00" y1="118.00" x2="360.00" y2="118.00" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="312.00,118.00 313.80,117.40 313.80,118.60" fill="#5b6576"/>
+<polygon points="360.00,118.00 358.20,117.40 358.20,118.60" fill="#5b6576"/>
+<text x="336.00" y="117.20" font-size="2.3" fill="#5b6576" text-anchor="middle" font-weight="400">wheelbase 96</text>
+<polygon points="253.50,179.50 253.50,162.00 254.52,153.95 255.54,151.63 256.56,150.04 257.58,148.82 258.60,147.84 259.62,147.02 260.65,146.33 261.67,145.75 262.69,145.24 263.71,144.81 264.73,144.44 265.75,144.12 266.77,143.85 267.79,143.62 268.81,143.43 269.83,143.27 270.85,143.14 271.88,143.04 272.90,142.96 273.92,142.91 274.94,142.87 275.96,142.85 276.98,142.84 278.00,142.84 278.00,142.84 280.20,142.11 282.40,141.56 284.60,141.12 286.80,140.75 289.00,140.44 291.20,140.18 293.40,139.96 295.60,139.77 297.80,139.61 300.00,139.48 302.20,139.36 304.40,139.27 306.60,139.19 308.80,139.13 311.00,139.08 313.20,139.05 315.40,139.02 317.60,139.01 319.80,139.00 322.00,139.00 324.20,139.00 326.40,139.01 328.60,139.02 330.80,139.05 333.00,139.08 335.20,139.13 337.40,139.19 339.60,139.27 341.80,139.36 344.00,139.48 346.20,139.61 348.40,139.77 350.60,139.96 352.80,140.18 355.00,140.44 357.20,140.75 359.40,141.12 361.60,141.56 363.80,142.11 366.00,142.84 366.00,142.84 367.02,142.84 368.04,142.85 369.06,142.87 370.08,142.91 371.10,142.96 372.12,143.04 373.15,143.14 374.17,143.27 375.19,143.43 376.21,143.62 377.23,143.85 378.25,144.12 379.27,144.44 380.29,144.81 381.31,145.24 382.33,145.75 383.35,146.33 384.38,147.02 385.40,147.84 386.42,148.82 387.44,150.04 388.46,151.63 389.48,153.95 390.50,162.00 390.50,179.50 370.00,179.50 370.00,176.00 274.00,176.00 274.00,179.50" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.45" stroke-linejoin="round"/>
+<path d="M285.00,151.00 C291.83,149.33 309.67,150.00 322.00,150.00 C334.33,150.00 352.17,149.33 359.00,151.00 C365.83,152.67 363.67,156.83 363.00,160.00 C362.33,163.17 361.83,168.58 355.00,170.00 C348.17,171.42 333.00,168.50 322.00,168.50 C311.00,168.50 295.83,171.42 289.00,170.00 C282.17,168.58 281.67,163.17 281.00,160.00 C280.33,156.83 278.17,152.67 285.00,151.00 Z" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polyline points="293.00,166.50 351.00,166.50" fill="none" fill-opacity="1.0" stroke="#3e434c" stroke-width="0.7" stroke-linejoin="round"/>
+<polyline points="291.00,163.25 353.00,163.25" fill="none" fill-opacity="1.0" stroke="#3e434c" stroke-width="0.7" stroke-linejoin="round"/>
+<polyline points="289.00,160.00 355.00,160.00" fill="none" fill-opacity="1.0" stroke="#3e434c" stroke-width="0.7" stroke-linejoin="round"/>
+<polyline points="291.00,156.75 353.00,156.75" fill="none" fill-opacity="1.0" stroke="#3e434c" stroke-width="0.7" stroke-linejoin="round"/>
+<polyline points="293.00,153.50 351.00,153.50" fill="none" fill-opacity="1.0" stroke="#3e434c" stroke-width="0.7" stroke-linejoin="round"/>
+<circle cx="302.25" cy="159.50" r="5.25" fill="#0d0e11" fill-opacity="1.0" stroke="#a7afbd" stroke-width="0.4"/>
+<circle cx="302.25" cy="159.50" r="4.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="315.25" cy="159.50" r="5.25" fill="#0d0e11" fill-opacity="1.0" stroke="#a7afbd" stroke-width="0.4"/>
+<circle cx="315.25" cy="159.50" r="4.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="328.75" cy="159.50" r="5.25" fill="#0d0e11" fill-opacity="1.0" stroke="#a7afbd" stroke-width="0.4"/>
+<circle cx="328.75" cy="159.50" r="4.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2"/>
+<circle cx="341.75" cy="159.50" r="5.25" fill="#0d0e11" fill-opacity="1.0" stroke="#a7afbd" stroke-width="0.4"/>
+<circle cx="341.75" cy="159.50" r="4.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2"/>
+<polygon points="278.00,182.00 366.00,182.00 365.00,178.50 279.00,178.50" fill="#c7ccd6" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.3" stroke-linejoin="round"/>
+<polygon points="271.75,182.00 258.50,182.00 258.50,149.00 271.75,149.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-dasharray="1.2,0.8" stroke-linejoin="round"/>
+<polygon points="372.25,182.00 385.50,182.00 385.50,149.00 372.25,149.00" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-dasharray="1.2,0.8" stroke-linejoin="round"/>
+<text x="258.00" y="128.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">FRONT</text>
+<text x="258.00" y="131.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">1 : 2</text>
+<line x1="253.50" y1="182.00" x2="253.50" y2="189.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="390.50" y1="182.00" x2="390.50" y2="189.00" stroke="#5b6576" stroke-width="0.12"/>
+<line x1="253.50" y1="188.00" x2="390.50" y2="188.00" stroke="#5b6576" stroke-width="0.15"/>
+<polygon points="253.50,188.00 255.30,187.40 255.30,188.60" fill="#5b6576"/>
+<polygon points="390.50,188.00 388.70,187.40 388.70,188.60" fill="#5b6576"/>
+<text x="322.00" y="187.20" font-size="2.3" fill="#5b6576" text-anchor="middle" font-weight="400">274 over the wing walls</text>
+<polygon points="192.05,248.25 192.05,236.00 192.76,230.37 193.48,228.74 194.19,227.63 194.91,226.78 195.62,226.09 196.34,225.52 197.05,225.03 197.77,224.62 198.48,224.27 199.20,223.97 199.91,223.71 200.62,223.48 201.34,223.29 202.05,223.13 202.77,223.00 203.48,222.89 204.20,222.80 204.91,222.73 205.63,222.67 206.34,222.63 207.06,222.61 207.77,222.59 208.49,222.59 209.20,222.58 209.20,222.58 210.74,222.08 212.28,221.69 213.82,221.38 215.36,221.13 216.90,220.91 218.44,220.73 219.98,220.57 221.52,220.44 223.06,220.33 224.60,220.23 226.14,220.15 227.68,220.09 229.22,220.03 230.76,219.99 232.30,219.96 233.84,219.93 235.38,219.92 236.92,219.91 238.46,219.90 240.00,219.90 241.54,219.90 243.08,219.91 244.62,219.92 246.16,219.93 247.70,219.96 249.24,219.99 250.78,220.03 252.32,220.09 253.86,220.15 255.40,220.23 256.94,220.33 258.48,220.44 260.02,220.57 261.56,220.73 263.10,220.91 264.64,221.13 266.18,221.38 267.72,221.69 269.26,222.08 270.80,222.58 270.80,222.58 271.51,222.59 272.23,222.59 272.94,222.61 273.66,222.63 274.37,222.67 275.09,222.73 275.80,222.80 276.52,222.89 277.23,223.00 277.95,223.13 278.66,223.29 279.38,223.48 280.09,223.71 280.80,223.97 281.52,224.27 282.23,224.62 282.95,225.03 283.66,225.52 284.38,226.09 285.09,226.78 285.81,227.63 286.52,228.74 287.24,230.37 287.95,236.00 287.95,248.25 273.60,248.25 273.60,245.80 206.40,245.80 206.40,248.25" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.4" stroke-linejoin="round"/>
+<polygon points="209.20,222.58 208.49,222.59 207.77,222.59 207.06,222.61 206.34,222.63 205.63,222.67 204.91,222.73 204.20,222.80 203.48,222.89 202.77,223.00 202.05,223.13 201.34,223.29 200.62,223.48 199.91,223.71 199.20,223.97 198.48,224.27 197.77,224.62 197.05,225.03 196.34,225.52 195.62,226.09 194.91,226.78 194.19,227.63 193.48,228.74 192.76,230.37 192.05,236.00 192.05,248.25 193.10,248.25 193.10,236.00 193.77,230.81 194.44,229.31 195.11,228.29 195.78,227.50 196.45,226.86 197.12,226.34 197.80,225.89 198.47,225.51 199.14,225.19 199.81,224.91 200.48,224.67 201.15,224.46 201.82,224.29 202.49,224.14 203.16,224.02 203.83,223.91 204.50,223.83 205.18,223.77 205.85,223.72 206.52,223.68 207.19,223.66 207.86,223.64 208.53,223.64 209.20,223.63" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="232.30,220.31 231.25,215.00 232.65,215.00 233.70,220.28" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="270.80,222.58 271.51,222.59 272.23,222.59 272.94,222.61 273.66,222.63 274.37,222.67 275.09,222.73 275.80,222.80 276.52,222.89 277.23,223.00 277.95,223.13 278.66,223.29 279.38,223.48 280.09,223.71 280.80,223.97 281.52,224.27 282.23,224.62 282.95,225.03 283.66,225.52 284.38,226.09 285.09,226.78 285.81,227.63 286.52,228.74 287.24,230.37 287.95,236.00 287.95,248.25 286.90,248.25 286.90,236.00 286.23,230.81 285.56,229.31 284.89,228.29 284.22,227.50 283.55,226.86 282.88,226.34 282.20,225.89 281.53,225.51 280.86,225.19 280.19,224.91 279.52,224.67 278.85,224.46 278.18,224.29 277.51,224.14 276.84,224.02 276.17,223.91 275.50,223.83 274.82,223.77 274.15,223.72 273.48,223.68 272.81,223.66 272.14,223.64 271.47,223.64 270.80,223.63" fill="none" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.25" stroke-linejoin="round"/>
+<polygon points="247.70,220.31 248.75,215.00 247.35,215.00 246.30,220.28" fill="#16181d" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="250.15,243.00 256.80,243.00 256.80,238.45 250.15,238.45" fill="#444" fill-opacity="1.0" stroke="#1b2330" stroke-width="0.2" stroke-linejoin="round"/>
+<text x="186.00" y="205.00" font-size="3.2" fill="#1b2330" text-anchor="start" font-weight="700">REAR</text>
+<text x="186.00" y="208.60" font-size="2.2" fill="#5b6576" text-anchor="start" font-weight="400">1 : 2.9, switch + fins</text>
+<rect x="300" y="262" width="110" height="25" fill="#fff" stroke="#1b2330" stroke-width="0.3"/>
+<line x1="300" y1="270" x2="410" y2="270" stroke="#1b2330" stroke-width="0.2"/>
+<line x1="385" y1="262" x2="385" y2="287" stroke="#1b2330" stroke-width="0.2"/>
+<text x="303" y="267.6" font-size="3.6" font-weight="800" fill="#1b2330">MANTA-08</text>
+<text x="331" y="267.6" font-size="2.3" fill="#5b6576">sumo v5 · chassis schematics · rev A · 2026-11-14</text>
+<text x="303" y="276" font-size="3.4" font-weight="700" fill="#1b2330">GENERAL ARRANGEMENT</text>
+<text x="303" y="281" font-size="2.2" fill="#5b6576">plan, side, front and rear with the overall sizes; numbered parts in the legend</text>
+<text x="303" y="285.2" font-size="2" fill="#5b6576">mm · x right, y forward, z up · mat at z 0 · for review, not for print</text>
+<text x="397.5" y="275" font-size="2.2" fill="#5b6576" text-anchor="middle">SHEET</text>
+<text x="397.5" y="283" font-size="6" font-weight="800" fill="#1b2330" text-anchor="middle">2/6</text>
+</svg>
